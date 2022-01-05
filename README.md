@@ -19,7 +19,7 @@ I am Anosh Bhakare, currently pursuing my Bachelor's Degree In Computer Applicat
 
 ## ⚡ Technologies
 
-### Language
+### Languages:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -30,7 +30,7 @@ I am Anosh Bhakare, currently pursuing my Bachelor's Degree In Computer Applicat
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 
-### Libraries & Framework
+### Libraries & Framework:
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
