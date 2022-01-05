@@ -14,11 +14,6 @@ I am Anosh Bhakare, currently pursuing my Bachelor's Degree In Computer Applicat
 
 [![Anosh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Anosh21&theme=xcode)](https://github.com/Anosh21)
 
-## 👨🏻‍💻 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/Anosh21/)
-[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/anoshbhakare064)
-
 
 <img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280">
 
@@ -57,6 +52,14 @@ I am Anosh Bhakare, currently pursuing my Bachelor's Degree In Computer Applicat
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 <!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) -->
 
+## 👨🏻‍💻 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/Anosh21/)
+[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/anoshbhakare064)
+
+
+
+
 ## 📈 Stats
 
 <table>
@@ -70,7 +73,7 @@ I am Anosh Bhakare, currently pursuing my Bachelor's Degree In Computer Applicat
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anosh21&theme=tokyonight" />
 </p>
-
+<!--
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
 
