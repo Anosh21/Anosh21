@@ -50,13 +50,13 @@ I am Anosh Bhakare, currently pursuing my Bachelor's Degree In Computer Applicat
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
-<!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) -->
+<!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) 
 
 ## 👨🏻‍💻 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/Anosh21/)
 [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/anoshbhakare064)
-
+ -->
 
 
 
