@@ -73,10 +73,9 @@ I am Anosh Bhakare, currently pursuing my Bachelor's Degree In Computer Applicat
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anosh21&theme=tokyonight" />
 </p>
-<!--
+
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-<!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+1.  💪 Opened PR [#34](https://github.com/web3community/blockchain-dev-path/pull/34) in [web3 community blockchain dev path](https://github.com/web3community/blockchain-dev-path)
+2. 🎉 Merged PR [#2](https://github.com/Anosh21/pull/2) in [Atiksh/ astro meter](https://github.com/atiksh19/astro-meter/pulls?q=is%3Apr+is%3Aclosed)
+3. 🗣 Commented on [#656](https://github.com/meshery/meshery.io/issues/656) in [Meshery.io](https://github.com/meshery/meshery.io)
