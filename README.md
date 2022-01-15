@@ -77,9 +77,10 @@ I am Anosh Bhakare, currently pursuing my Bachelor's Degree In Computer Applicat
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#35](https://github.com/WebXDAO/blockchain-dev-path/pull/35) in [web3 community blockchain dev path](https://github.com/web3community/blockchain-dev-path)
-2. 💪 Opened PR [#521](https://github.com/kubeflow/internal-acls/pull/521) in [kubeflow/internal/alc](https://github.com/kubeflow/internal-acls)
-3. 🎉 Merged PR [#34](https://github.com/web3community/blockchain-dev-path/pull/34) in [web3 community blockchain dev path](https://github.com/web3community/blockchain-dev-path)
-4. 🎉 Merged PR [34](https://github.com/web3community/blockchain-dev-path/pull/34) in [web3 community blockchain dev path](https://github.com/web3community/blockchain-dev-path)
-5. 🗣 Commented on [#656](https://github.com/meshery/meshery.io/issues/656) in [Meshery.io](https://github.com/meshery/meshery.io)
-6. 🗣 Commented on [#149](https://github.com/web3community/web3community.github.io/issues/149) in [Web3Community/web3Community.github.io](https://github.com/web3community/web3community.github.io)
+2. 💪 Opened PR [#38](https://github.com/SurPathHub/starter-kit/pull/38) in [SurPathHub/ starter kit](https://github.com/SurPathHub/starter-kit)
+3. 💪 Opened PR [#521](https://github.com/kubeflow/internal-acls/pull/521) in [kubeflow/internal/alc](https://github.com/kubeflow/internal-acls)
+4. 🎉 Merged PR [#34](https://github.com/web3community/blockchain-dev-path/pull/34) in [web3 community blockchain dev path](https://github.com/web3community/blockchain-dev-path)
+5. 🎉 Merged PR [34](https://github.com/web3community/blockchain-dev-path/pull/34) in [web3 community blockchain dev path](https://github.com/web3community/blockchain-dev-path)
+6. 🗣 Commented on [#656](https://github.com/meshery/meshery.io/issues/656) in [Meshery.io](https://github.com/meshery/meshery.io)
+7. 🗣 Commented on [#149](https://github.com/web3community/web3community.github.io/issues/149) in [Web3Community/web3Community.github.io](https://github.com/web3community/web3community.github.io)
 
