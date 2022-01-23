@@ -64,18 +64,10 @@ I am Anosh Bhakare, currently pursuing my Bachelor's Degree In Computer Applicat
 
 
 
-## 📈 Stats
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Anosh21&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anosh21&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</td>
-</tr>
-</table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anosh21&theme=tokyonight" />
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anosh21&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anosh21&theme=tokyonight" />
 </p>
 
 ## :zap: Recent Activity
