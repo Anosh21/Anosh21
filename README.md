@@ -1,4 +1,4 @@
-# Hi, I am Anosh! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="10px">
+# Hi, I am Anosh! Great to see you here! <img src="https://raw.githubusercontent.com/Anosh21/Anosh21/main/src/wave.gif" width="20px">
 
 I am Anosh Bhakare, currently pursuing my Bachelor's Degree In Computer Application from [MES GARWARE College OF COMMERCE](https://gcc.mespune.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
