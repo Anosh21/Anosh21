@@ -1,5 +1,6 @@
 # Hi, I am Anosh! Great to see you here! <img src="https://raw.githubusercontent.com/Anosh21/Anosh21/main/src/wave.gif" width="20px">
 
+
 I am Anosh Bhakare, currently pursuing my Bachelor's Degree In Computer Application from [MES GARWARE College OF COMMERCE](https://gcc.mespune.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anoshbhakare064@gmail.com)](mailto:anoshbhakare064@gmail.com)
@@ -71,7 +72,7 @@ I am Anosh Bhakare, currently pursuing my Bachelor's Degree In Computer Applicat
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anosh21&theme=tokyonight" />
 </p>
 
-## :zap: Recent Activity
+## :zap: Recent Achievements -:
 <!--START_SECTION:activity
 1. 🎉 Merged PR [#35](https://github.com/WebXDAO/blockchain-dev-path/pull/35) in [web3 community blockchain dev path](https://github.com/web3community/blockchain-dev-path)
 2. 💪 Opened PR [#38](https://github.com/SurPathHub/starter-kit/pull/38) in [SurPathHub/ starter kit](https://github.com/SurPathHub/starter-kit)
@@ -81,3 +82,10 @@ I am Anosh Bhakare, currently pursuing my Bachelor's Degree In Computer Applicat
 6. 🗣 Commented on [#656](https://github.com/meshery/meshery.io/issues/656) in [Meshery.io](https://github.com/meshery/meshery.io)
 7. 🗣 Commented on [#149](https://github.com/web3community/web3community.github.io/issues/149) in [Web3Community/web3Community.github.io](https://github.com/web3community/web3community.github.io)
 -->
+<!-- Begin: HubSpot Academy - Digital Marketing  Badge -->
+<div class='academy-badge'>
+<a href='http://academy.hubspot.com/certification' title='Digital Marketing '>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/290f902d2a7d430e98262a975dba1a5b.png' />
+</a>
+</div>
+<!-- End: HubSpot Academy - Digital Marketing  Badge -->
